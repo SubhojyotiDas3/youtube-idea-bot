@@ -4,8 +4,8 @@ import re
 from collections import Counter
 
 # -------- DIRECT TOKEN (NO SECRETS) --------
-BOT_TOKEN = 8206593845:AAGIZjDS2sX0UbG4aIeRCdLzKPLtHA3H8Nw
-CHAT_ID = 512451262
+BOT_TOKEN = "8206593845:AAGIZjDS2sX0UbG4aIeRCdLzKPLtHA3H8Nw"
+CHAT_ID = "512451262"
 
 message = "🔥 Tech Content Ideas\n\n"
 
